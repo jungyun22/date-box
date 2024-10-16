@@ -16,5 +16,5 @@ jobs:
         env:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 7de2a55824ec5e8a78ebc3c57e4ca82b
+          GIST_ID: ee029405ab7df8bc5c22d6e1fc2ca831
           RECORDS: "2024-10-28 _ 빅분기 실기 접수 | 2024-11-30 _ 빅분기 실기 | 2025-02-22 _ MY BIRTHDAY"
